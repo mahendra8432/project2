@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 // #add new feature 
-console.log("hi");
-=======
+console.log("Thala");
 // #add new feature 
->>>>>>> 8c9e7f245a18ecce304ed88aa96dcb6767ab5d64
+
